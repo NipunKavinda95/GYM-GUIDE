@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "id": "legs",
+      "name": { "en": "Legs" }
+    },
+    {
+      "id": "back",
+      "name": { "en": "Back" }
+    }
+  ],
+  "machines": [
+       {
+  "id": "leg-press",
+  "category": "legs",
+  "name": {
+    "en": "Leg Press",
+    "hi": "लेग प्रेस",
+    "ar": "مقعد ضغط الأرجل",
+    "ml": "ലെഗ് പ്രസ്"
+  },
+  "targets": {
+    "primary": { "en": "Quadriceps", "hi": "क्वाड्रिसेप्स", "ar": "العضلة الرباعية", "ml": "ക്വാഡ്രിസെപ്സ്" },
+    "secondary": { "en": "Glutes, Hamstrings", "hi": "ग्लूट्स, हैमस्ट्रिंग", "ar": "الأرداف، أوتار الركبة", "ml": "ഗ്ലൂട്ട്സ്, ഹാംസ്ട്രിംഗ്" }
+  },
+  "steps": {
+    "en": [
+      "Sit on the machine with your back flat against the pad",
+      "Place feet shoulder-width apart on the platform",
+      "Release the safety handles and lower the platform slowly",
+      "Push through your heels to extend legs, without locking knees",
+      "Return slowly to starting position"
+    ],
+    "hi": [
+      "मशीन पर बैठें और पीठ को पैड से सटाकर रखें",
+      "पैरों को कंधों की चौड़ाई जितना अलग रखें प्लेटफॉर्म पर",
+      "सेफ्टी हैंडल छोड़ें और प्लेटफॉर्म को धीरे-धीरे नीचे लाएं",
+      "एड़ियों के बल पैर सीधे करें, घुटनों को पूरी तरह लॉक न करें",
+      "धीरे-धीरे शुरुआती स्थिति में वापस आएं"
+    ],
+    "ar": [
+      "اجلس على الجهاز مع إسناد ظهرك بشكل مسطح على الوسادة",
+      "ضع قدميك على المنصة بعرض الكتفين",
+      "حرر مقابض الأمان وأنزل المنصة ببطء",
+      "ادفع بكعبيك لتمديد ساقيك دون قفل الركبتين بالكامل",
+      "عد ببطء إلى وضع البداية"
+    ],
+    "ml": [
+      "മെഷീനിൽ ഇരുന്ന് പുറം പാഡിൽ പരന്ന് വയ്ക്കുക",
+      "കാലുകൾ തോളിന്റെ വീതിയിൽ പ്ലാറ്റ്‌ഫോമിൽ വയ്ക്കുക",
+      "സേഫ്റ്റി ഹാൻഡിലുകൾ വിട്ട് പ്ലാറ്റ്‌ഫോം സാവധാനം താഴ്ത്തുക",
+      "കാൽമുട്ടുകൾ പൂർണ്ണമായി ലോക്ക് ചെയ്യാതെ കുതികാൽ ഉപയോഗിച്ച് കാലുകൾ നീട്ടുക",
+      "സാവധാനം ആരംഭ സ്ഥാനത്തേക്ക് മടങ്ങുക"
+    ]
+  },
+  "commonMistakes": {
+    "en": [
+      "Locking knees fully at the top of the movement",
+      "Lowering the platform too far, rounding the lower back"
+    ],
+    "hi": [
+      "मूवमेंट के ऊपरी हिस्से में घुटनों को पूरी तरह लॉक करना",
+      "प्लेटफॉर्म को बहुत नीचे ले जाना, जिससे पीठ का निचला हिस्सा मुड़ जाए"
+    ],
+    "ar": [
+      "قفل الركبتين بالكامل في أعلى الحركة",
+      "خفض المنصة كثيراً مما يؤدي لانحناء أسفل الظهر"
+    ],
+    "ml": [
+      "ചലനത്തിന്റെ മുകളിൽ കാൽമുട്ടുകൾ പൂർണ്ണമായി ലോക്ക് ചെയ്യുന്നത്",
+      "പ്ലാറ്റ്‌ഫോം വളരെ താഴ്ത്തി താഴത്തെ പുറം വളയുന്നത്"
+    ]
+  },
+  "videoUrl": "https://www.youtube.com/embed/cDGOn-yfKJA"
+},
+    {
+      "id": "lat-pulldown",
+      "category": "back",
+      "name": { "en": "Lat Pulldown" },
+      "targets": {
+        "primary": { "en": "Latissimus Dorsi (upper back)" },
+        "secondary": { "en": "Biceps, Shoulders" }
+      },
+      "steps": {
+        "en": [
+          "Sit and secure knees under the pad",
+          "Grip the bar wider than shoulder-width",
+          "Pull the bar down to chest level, leading with elbows",
+          "Squeeze shoulder blades together at the bottom",
+          "Slowly return the bar to the starting position"
+        ]
+      },
+      "commonMistakes": {
+        "en": [
+          "Leaning back too far and using body momentum",
+          "Pulling the bar behind the neck instead of to the chest"
+        ]
+      },
+      "videoUrl": ""
+    }
+  ]
+}
